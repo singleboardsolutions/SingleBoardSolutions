@@ -4,4 +4,8 @@ $CMP CH551G
 D MCS-51 based USB device microcontroller
 $ENDCMP
 #
+$CMP CH559L
+D MCS-51 based USB device microcontroller
+$ENDCMP
+#
 #End Doc Library
